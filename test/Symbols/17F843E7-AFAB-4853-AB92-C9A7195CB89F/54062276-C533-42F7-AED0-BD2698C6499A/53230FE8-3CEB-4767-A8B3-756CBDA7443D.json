@@ -57,7 +57,7 @@
         "location": 0
       }
     ],
-    "string": "aaaa"
+    "string": "text"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "53230FE8-3CEB-4767-A8B3-756CBDA7443D",
@@ -79,14 +79,14 @@
     "x": 11.15044247787611,
     "y": 9
   },
-  "glyphBounds": "{{10, 12}, {42, 11}}",
+  "glyphBounds": "{{13, 10}, {36, 13}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "aaaa",
+  "name": "text",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
