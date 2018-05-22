@@ -53,11 +53,11 @@
             ]
           }
         },
-        "length": 8,
+        "length": 18,
         "location": 0
       }
     ],
-    "string": "みん法のタイトル"
+    "string": "みん法のタイトaaaaaaaaaaル"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "38F90E63-CE9B-41DD-A5E0-9DB545B9E489",
@@ -77,18 +77,18 @@
     "constrainProportions": false,
     "do_objectID": "EA400808-7126-4DED-8A40-381A0FBC46B5",
     "height": 29,
-    "width": 160,
+    "width": 275,
     "x": 287,
     "y": 55
   },
-  "glyphBounds": "{{0, 0}, {159, 21}}",
+  "glyphBounds": "{{1, 12}, {273, 19}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "みん法のタイトル",
+  "name": "みん法のタイトaaaaaaaaaaル",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
